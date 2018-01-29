@@ -1,2 +1,4 @@
 0xFFADF80
 0xCCAF6732
+def trace()
+	pass
